@@ -1,2 +1,5 @@
 hi, Hom nay la thu 7.
 Toi dang ban hoc git
+- B1
+- B1-A
+
