@@ -1,1 +1,2 @@
-hi, Hom nay la thu 7
+hi, Hom nay la thu 7.
+Toi dang ban hoc git
